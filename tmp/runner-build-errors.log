@@ -1,0 +1,3 @@
+# example.com/controllers
+controllers\user_controller.go:366:2: declared and not used: currentUserIDForAudit
+controllers\user_controller.go:368:73: undefined: currentUserID
